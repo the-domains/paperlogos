@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Paperlogos]]></title>
+        <description><![CDATA[Paperlogos]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Dec 2015 21:28:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What is Paperlogos]]></title>
+            <description><![CDATA[<article><h1>What is Paperlogos</h1><p>What is Paperlogos?</p></article>]]></description>
+            <link>undefinedwhat-is-paperlogos/index.html</link>
+            <guid isPermaLink="false">111fe35f-90b6-4ee9-b97b-2528e46c56cf</guid>
+            <pubDate>Wed, 09 Dec 2015 21:27:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
