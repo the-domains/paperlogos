@@ -1,7 +1,7 @@
 name: PaperLogos
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.3249194
+typography_spectrum: 0.40839
 title: Paperlogos
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.875
+  brandStrength: 0.0625
   lightness: 1
-  saturation: 0.8125
+  saturation: 0.75
   rhythmicContrast: 0.75
 purpose: []
