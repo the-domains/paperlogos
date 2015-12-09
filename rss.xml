@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Paperlogos]]></title>
         <description><![CDATA[Paperlogos]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/paperlogos/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Dec 2015 21:28:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Dec 2015 21:37:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/paperlogos/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What is Paperlogos]]></title>
-            <description><![CDATA[<article><h1>What is Paperlogos</h1><p>What is Paperlogos?</p></article>]]></description>
-            <link>undefinedwhat-is-paperlogos/index.html</link>
+            <description><![CDATA[<article><h1>What is Paperlogos</h1><p>What is Paperlogos?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cabe751a938cd7cc793bb7f915fd5f3bc828701c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/paperlogos/what-is-paperlogos/index.html</link>
             <guid isPermaLink="false">111fe35f-90b6-4ee9-b97b-2528e46c56cf</guid>
-            <pubDate>Wed, 09 Dec 2015 21:27:47 GMT</pubDate>
+            <pubDate>Wed, 09 Dec 2015 21:37:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
