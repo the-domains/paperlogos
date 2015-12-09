@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.1863587
+  brandStrength: 0.4615863
+  lightness: 0.9113855
+  rhythmicContrast: 0.5977443
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+typography_spectrum: 0.3249194
+name: PaperLogos
